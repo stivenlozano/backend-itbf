@@ -35,7 +35,7 @@ return [
     */
 
     'allowed_origins' => [
-        'https://frontend-itbf.vercel.app/', // producción
+        'https://frontend-itbf.vercel.app', // producción
     ],
 
     /*
