@@ -35,6 +35,7 @@ return [
     */
 
     'allowed_origins' => [
+        'http://localhost:5173', // desarrollo
         'https://frontend-itbf.vercel.app', // producción
     ],
 
